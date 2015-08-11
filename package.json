@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bioball/numer/issues"
   },
-  "homepage": "https://github.com/bioball/numer"
+  "homepage": "https://github.com/bioball/numer",
+  "devDependencies": {
+    "chai": "^3.2.0"
+  }
 }

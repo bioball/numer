@@ -1,0 +1,4 @@
+--reporter spec
+--compilers coffee:coffee-script/register 
+--timeout 5000
+test/numerSpec.coffee
