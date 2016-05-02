@@ -1,6 +1,5 @@
-declare module "numer" {
-  export {};
-}
+// fix for a weird TypeScript error that occurs if there's no exports.
+export type _void = void;
 
 interface Number {
   seconds(): number;
